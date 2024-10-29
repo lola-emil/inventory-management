@@ -1,6 +1,6 @@
 <?php
 
-define("PROJECT_FOLDER", "/inventory-management");
+define("PROJECT_FOLDER", "");
 define("PROJECT_TITLE", "Inventory Management");
 
 define("VIEWS_FOLDER", "views");

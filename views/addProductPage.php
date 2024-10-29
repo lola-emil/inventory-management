@@ -1,6 +1,6 @@
 <?php
 if (!isset($_SESSION["ADMIN_ID"]))
-  header("Location: /inventory-management/signin");
+  header("Location: /signin");
 
 
 require_once "controllers/addproduct.php";
