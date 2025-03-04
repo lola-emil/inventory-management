@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "css:build": "tailwindcss -i \"./assets/css/input.css\" -o \"./assets/css/style.css\" "
+    "css:build": "tailwindcss -i \"./assets/css/input.css\" -o \"./assets/css/style.css\" ",
+    "create:user": "node ./scripts/add-admin.js"
   },
   "devDependencies": {
     "daisyui": "^4.12.2",
